@@ -2,7 +2,7 @@
 ci:
   # format compatible with commitlint
   autoupdate_commit_msg: "chore: pre-commit autoupdate"
-  autoupdate_schedule: monthly
+  autoupdate_schedule: weekly
   autofix_commit_msg: "chore: auto fixes from pre-commit.com hooks"
 
 repos:
